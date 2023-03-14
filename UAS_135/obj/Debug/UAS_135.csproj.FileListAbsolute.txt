@@ -1,0 +1,8 @@
+D:\UMY\MatKul\Sem 3\Algo\Projects\UAS_135\UAS_135\bin\Debug\UAS_135.exe.config
+D:\UMY\MatKul\Sem 3\Algo\Projects\UAS_135\UAS_135\bin\Debug\UAS_135.exe
+D:\UMY\MatKul\Sem 3\Algo\Projects\UAS_135\UAS_135\bin\Debug\UAS_135.pdb
+D:\UMY\MatKul\Sem 3\Algo\Projects\UAS_135\UAS_135\obj\Debug\UAS_135.csproj.AssemblyReference.cache
+D:\UMY\MatKul\Sem 3\Algo\Projects\UAS_135\UAS_135\obj\Debug\UAS_135.csproj.SuggestedBindingRedirects.cache
+D:\UMY\MatKul\Sem 3\Algo\Projects\UAS_135\UAS_135\obj\Debug\UAS_135.csproj.CoreCompileInputs.cache
+D:\UMY\MatKul\Sem 3\Algo\Projects\UAS_135\UAS_135\obj\Debug\UAS_135.exe
+D:\UMY\MatKul\Sem 3\Algo\Projects\UAS_135\UAS_135\obj\Debug\UAS_135.pdb
